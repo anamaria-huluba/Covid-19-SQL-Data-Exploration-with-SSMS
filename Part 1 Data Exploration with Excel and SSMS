@@ -3,16 +3,6 @@
 
 Part 1 Data Exploration with Excel and SSMS
 
-My goal is to show at a glance what percentage of the population was infected with Covid-19, between January 2020 and June 2021. 
-
-The first part of the project involved downloading and cleaning the data set in Excel, and creating two tables with the total number of vaccinations and the rate of deaths around
-
-the world. 
-
-The data source used is Our World in Data: https://ourworldindata.org/covid-deaths.
-
-Next, I uploaded the two newly created tables into Microsoft SQL Server Management Studio and queried the data. 
-
 /*
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
