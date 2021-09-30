@@ -6,7 +6,7 @@ My goal was to show at a glance what percentage of the population was infected w
 Part 1 - Data Exploration with Excel and SSMS
 
 
-The first part of the project involved downloading and cleaning the data set in Excel, and creating two tables with the total number of vaccinations and the rate of deaths around the world. 
+The first part of the project involved downloading and cleaning the data set in Excel, and creating two tables with the total number of vaccinations (CovidVaccinations) and the number of deaths (CovidDeaths) around the world. 
 
 The data source used is Our World in Data: https://ourworldindata.org/covid-deaths.
 
